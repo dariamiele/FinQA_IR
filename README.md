@@ -153,7 +153,9 @@ Future directions include:
 ## Authors
 
 Daria Miele
+
 Beatrice Camera
+
 Zofia Pempera
 
 Bachelor in Artificial Intelligence  
